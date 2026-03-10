@@ -1,4 +1,3 @@
 
-
-int panjang, lebar;
-
+    cout << "Masukkan Panjang : ";
+    cin >> panjang;
