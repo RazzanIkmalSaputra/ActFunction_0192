@@ -1,7 +1,7 @@
 
 
-void output()
+int main()
 {
-    cout << "Hasilnya : " << luasPersegi();
+    input();
+    output();
 }
-
