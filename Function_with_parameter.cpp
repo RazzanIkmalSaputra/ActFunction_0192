@@ -1,3 +1,3 @@
 
-    cout << "Masukkan Panjang : ";
-    cin >> panjang;
+    cout << "Masukkan Lebar : ";
+    cin >> lebar;
